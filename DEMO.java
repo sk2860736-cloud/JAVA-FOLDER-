@@ -1,6 +1,6 @@
 package LECTURE11;
 
-public class DEMO {
+public class DAY11 {
 //     public static void main(String[] args) {
 //         // function in java --. block of the code 
 //         int i = 5;
@@ -105,3 +105,4 @@ static void greet(int age, String name){
 
 
 }
+
