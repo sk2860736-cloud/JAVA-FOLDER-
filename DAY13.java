@@ -133,6 +133,7 @@ public class DAY13 {
 
 
 // THIS KEYWORDS -->  PREFER VARIABLE SAME NAME JAVA CONVENTION , EASY TO UNDERSTAND 
+    // THIS --> CURRENT OBJECT KE REFERENCE KO STORE KARTA HAIN // CONSTRUCTORS CALL TO THIS KEYWORDS 
 
 // public static void main(String[] args) {
 // student s1 = new student("SACHIN",20,95,"IES UNIVERSITY");
@@ -167,6 +168,11 @@ public class DAY13 {
 
 public static void main(String[] args) {
     student s1 = new student();
+    //  student s2 = new student("SACHIN");
+    //  student s3 = new student("SACHIN",20);
+    //  student s4 = new student("SACHIN",20,95);
+    //  student s5 = new student("SACHIN",20,95,"IES UNIVERSITY");
+    
 
     System.out.println(s1.name);
     System.out.println(s1.age);
