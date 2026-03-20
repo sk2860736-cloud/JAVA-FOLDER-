@@ -26,7 +26,7 @@ public class DAY16 {
             balanace -= amount;
 
         }
-        public double getBalanace() {
+        public double getBalanace() { // getter and setter method 
             return balanace;
         }
 
