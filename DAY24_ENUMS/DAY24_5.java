@@ -1,4 +1,4 @@
-package ENUMS;
+package DAY24_ENUMS;
 
 public class DAY24_5{
     public static void main(String[] args) {

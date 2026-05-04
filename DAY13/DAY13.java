@@ -191,8 +191,8 @@ static class student{ // CONSTRUCTORS CALLING .
         System.out.println("I AM IN SECOND CONSTRUCTORS ");   
     }
 
-   student(String name , int aeg){
-        this(name , 20, 95);
+   student(String name , int age){
+        this(name ,age, 95);
         System.out.println("I AM IN THIRD CONSTRUCTORS "); 
    }  
 
@@ -214,7 +214,9 @@ static class student{ // CONSTRUCTORS CALLING .
 }
 
 
+
 }
+
 
 
  

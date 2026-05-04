@@ -1,4 +1,4 @@
-package ENUMS;
+package DAY24_ENUMS;
 
 public class DAY24_3 {
     public static void main(String[] args) {
@@ -30,3 +30,4 @@ enum Direction {
     }
 
 }
+
